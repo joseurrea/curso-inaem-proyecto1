@@ -1,6 +1,6 @@
 # curso-inaem-proyecto1
 
-Pig game by JUANDA
+Pig game o juego de dados por : JOSE URREA
 
 Gana el jugador que primero llega a 100 puntos.
 Cada vez que lanzas el dado acumulas puntos en tu turno.
